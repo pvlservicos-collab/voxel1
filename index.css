@@ -820,7 +820,7 @@ button {
 
   .dor__card-text {
     font-size: .84rem;
-    padding: 10px 14px;
+    padding: 10px 12px;
   }
 
   .dor__cards-wrap {
@@ -877,7 +877,7 @@ button {
 
 .prova__stat2 {
   background: #ffc501;
-  border-radius: 14px;
+  border-radius: 12px;
   padding: 32px 36px;
   display: flex;
   flex-direction: column;
@@ -910,7 +910,7 @@ button {
 .prova__stat {
   background: var(--bg);
   border: 1px solid var(--bd);
-  border-radius: 14px;
+  border-radius: 12px;
   padding: 24px 28px;
   display: flex;
   flex-direction: column;
@@ -959,7 +959,7 @@ button {
 .pvideo {
   background: var(--bg);
   border: 1px solid var(--bd);
-  border-radius: 14px;
+  border-radius: 12px;
   overflow: hidden;
   transition: border-color var(--ease);
 }
@@ -985,7 +985,7 @@ button {
 .pvideo__body {
   display: flex;
   flex-direction: column;
-  gap: 14px;
+  gap: 12px;
 }
 
 .pvideo__auth {
@@ -1037,7 +1037,7 @@ button {
   line-height: 1.75;
   font-style: italic;
   border-left: 2px solid var(--gold-bd);
-  padding-left: 14px;
+  padding-left: 12px;
   margin: 0;
 }
 
@@ -2222,7 +2222,7 @@ button {
     }
 
     .hero__cta {
-      font-size: 14px;
+      font-size: 12px;
       padding: 16px 24px;
       width: 100%;
       text-align: center;
@@ -2275,11 +2275,11 @@ button {
       width: 100%;
       justify-content: center;
       text-align: center;
-      font-size: 14px;
+      font-size: 12px;
     }
 
     .form__btn {
-      font-size: 14px;
+      font-size: 12px;
     }
   }
 }
